@@ -12,7 +12,6 @@
 <summary> 📌 POST /login/ </summary>
   
 ### Login endpoint
-* user login
   
 > Request body: 
 ```json
