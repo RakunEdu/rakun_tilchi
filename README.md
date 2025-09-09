@@ -26,17 +26,10 @@
 </details>
 
 <details>
-<summary> 📌 POST /login/ </summary>
+<summary> 📌 GET /login/ </summary>
   
 ### Login endpoint
   
-> Request body: 
-```json
-{
-  "login": "fjuraev",
-  "password": "Ewing0605"
-}
-```
 
 > Response (200): 
 ```json
