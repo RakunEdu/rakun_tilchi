@@ -46,3 +46,25 @@
 }
 ```
 </details>
+<details>
+<summary> 📌 POST /your_plans/ </summary>
+  
+### Your Plans endpoint
+  
+> Request body: 
+```json
+{
+  "user_id": 2,
+}
+```
+
+> Response (200): 
+```json
+{
+ "plan_name": "English A1"
+ "plan_image": "https//hafahfafhafjalfsk.jpg"
+ "level": "A1"
+
+}
+```
+</details>
