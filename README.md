@@ -32,17 +32,17 @@
 > Request body: 
 ```json
 {
-"user_id": 4 
+ "user_id": 233,
+ "user_name": "Firuz Juraev",
+ "login": "fjuraev"
+ "password": "ewing0506"
 }
 ```
 
 > Response (200): 
 ```json
 {
- "user_id": 233,
- "user_name": "Firuz Juraev",
- "login": "fjuraev"
- "password": "ewing0506"
+ "message": "Successfully edited!",
 }
 ```
 </details>
