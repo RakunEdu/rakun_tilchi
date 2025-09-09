@@ -74,6 +74,39 @@
 </details>
 
 
+
+<details>
+<summary> 📌 POST /get_plan_questions/ </summary>
+  
+### Get Plan Questions Endpoint
+
+> Request
+```json
+{
+  "plan_id": 23 
+}
+
+```
+
+
+> Response (200): 
+```json
+{
+"1" { 
+   "word": "bear",
+   "translation": "ayiq"}
+"2" { 
+   "word": "cat",
+   "translation": "mushuk"}
+... 
+"300" { 
+   "word": "forest",
+   "translation": "o'rmon"}
+}
+```
+</details>
+
+
 ### 3. Game History Endpoints 
 <details>
 <summary> 📌 GET /game_histories/ </summary>
@@ -120,6 +153,15 @@
             {"player_name": "Firuz", "accuracy": "93", "score": "41/44", "winner": False}] 
 
 ```
+
+> Response (200): 
+```json
+{
+ "message": "Saved successfully"
+}
+```
+
 </details>
+
 
 
