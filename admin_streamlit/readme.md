@@ -54,3 +54,23 @@
 }
 ```
 </details>
+
+
+
+### 2. Words Endpoints  
+
+<details>
+<summary> 📌 GET /get_plans/ </summary>
+  
+### Get Plans endpoint
+
+> Response (200): 
+```json
+{
+ "plans": [
+    {"plan_id": 233, "plan_name": "English A1"},
+    {"plan_id": 234, "plan_name": "English A2"}
+  ]
+}
+```
+</details>
