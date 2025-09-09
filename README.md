@@ -6,3 +6,7 @@
 <details>
 <summary> 📌 POST /sign_up/ </summary>
 </details>
+
+<details>
+<summary> 📌 POST /login/ </summary>
+</details>
