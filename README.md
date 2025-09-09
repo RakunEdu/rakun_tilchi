@@ -104,3 +104,22 @@
 </details>
 
 
+
+<details>
+<summary> 📌 POST /save_game_history/ </summary>
+  
+### Save Game History Endpoint
+
+> Request: 
+```json
+{
+"game_date": "01.12.2025",
+"end_time": "14:56"
+"plan_id": 21, 
+"players": [{"player_name": "Umid", "accuracy": "96", "score": "45/47", "winner": True},
+            {"player_name": "Firuz", "accuracy": "93", "score": "41/44", "winner": False}] 
+
+```
+</details>
+
+
