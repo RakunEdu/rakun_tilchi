@@ -5,7 +5,20 @@
 ### 1. Login Endpoints 
 <details>
 <summary> 📌 POST /sign_up/ </summary>
+  
 ### Sign Up Endpoint
+
+> Request body:
+```json
+{
+"login": "fjuraev",
+"password": "Ewing0605"
+}
+> Response (200)
+```json
+{
+"message": "Successfully registered" 
+}
 </details>
 
 <details>
