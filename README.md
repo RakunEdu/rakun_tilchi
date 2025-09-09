@@ -10,7 +10,8 @@
 
 <details>
 <summary> 📌 POST /login/ </summary>
-### Login Endpoint
+### Login endpoint
+* user login
   
 > Request body: 
 ```json
