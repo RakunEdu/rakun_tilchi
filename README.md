@@ -10,6 +10,7 @@
 
 <details>
 <summary> 📌 POST /login/ </summary>
+  
 ### Login endpoint
 * user login
   
