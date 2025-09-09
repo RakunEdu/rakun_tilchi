@@ -26,10 +26,17 @@
 </details>
 
 <details>
-<summary> 📌 GET /login/ </summary>
+<summary> 📌 POST /login/ </summary>
   
 ### Login endpoint
-  
+
+> Request body: 
+```json
+{
+"login": "umid",
+"password": "umid0210" 
+}
+```
 
 > Response (200): 
 ```json
@@ -40,16 +47,10 @@
 ```
 </details>
 <details>
-<summary> 📌 POST /your_plans/ </summary>
+<summary> 📌 GET /your_plans/ </summary>
   
 ### Your Plans endpoint
   
-> Request body: 
-```json
-{
-  "user_id": 2,
-}
-```
 
 > Response (200): 
 ```json
