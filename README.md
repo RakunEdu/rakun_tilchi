@@ -24,6 +24,7 @@
 }
 ```
 </details>
+<details>
 <summary> 📌 PUT /edit_user/ </summary>
   
 ### Edit User Endpoint
