@@ -46,3 +46,30 @@
 }
 ```
 </details>
+
+
+
+### 1. Plans Endpoints
+
+<details>
+<summary> 📌 GET /plans/ </summary>
+  
+### Plans Endpoint
+
+> Response (200): 
+```json
+{
+"1" { 
+   "plan_id": 233,
+   "plan_name": "English A1",
+   "icon": "eng"
+   "subscription": True }
+"2" { 
+   "plan_id": 123,
+   "plan_name": "English A2",
+   "icon": "eng"
+   "subscription": False }
+}
+```
+</details>
+
