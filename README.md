@@ -88,8 +88,8 @@
    "game_date": "01.12.2025",
    "end_time": "14:56"
    "plan_name": "English A1", 
-   "players": [{"player_name": "Umid", "accuracy": "96", score: "45/47", "winner": True},
-               {"player_name": "Firuz", "accuracy": "93", score: "41/44", "winner": False}] 
+   "players": [{"player_name": "Umid", "accuracy": "96", "score": "45/47", "winner": True},
+               {"player_name": "Firuz", "accuracy": "93", "score": "41/44", "winner": False}] 
 
 }
 "2" { 
@@ -97,8 +97,8 @@
    "game_date": "21.12.2025",
    "end_time": "18:56"
    "plan_name": "English A2", 
-   "players": [{"player_name": "Asil", "accuracy": "89", score: "40/45", "winner": True},
-               {"player_name": "Norboy", "accuracy": "88", score: "39/44", "winner": False}] 
+   "players": [{"player_name": "Asil", "accuracy": "89", "score": "40/45", "winner": True},
+               {"player_name": "Norboy", "accuracy": "88", "score": "39/44", "winner": False}] 
 }
 ```
 </details>
