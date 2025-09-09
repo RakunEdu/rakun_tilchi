@@ -11,8 +11,10 @@
 > Request body:
 ```json
 {
+"name": "Firuz",
 "login": "fjuraev",
-"password": "Ewing0605"
+"password": "Ewing0605",
+"phone_number": "998953305830"
 }
 ```
 > Response (200)
