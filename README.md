@@ -11,4 +11,19 @@
 <details>
 <summary> 📌 POST /login/ </summary>
 ### Login Endpoint
+> Request body: 
+```json
+{
+  "login": "fjuraev",
+  "password": "Ewing0605"
+}
+```
+
+> Response (200): 
+```json
+{
+ "user_id": 233
+ "user_name": "Firuz Juraev"
+}
+```
 </details>
