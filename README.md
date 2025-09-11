@@ -4,7 +4,7 @@
 
 ### 1. Login Endpoints 
 <details>
-<summary> 📌 POST /sign_up/ </summary>
+<summary> 📌 POST /login/ </summary>
   
 ### Login endpoint
 
